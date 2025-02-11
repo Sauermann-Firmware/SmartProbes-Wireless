@@ -1,2 +1,2 @@
-# 23ManRan-Probes
-23ManRan-Probes releases project
+# SmartProbes-Wireless
+SmartProbes-Wireless releases project
